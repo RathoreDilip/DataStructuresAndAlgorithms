@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2542fee2-5d66-48bd-9927-f8df4eb82aaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-LinkedList/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03-Stack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03-Stack/src/com/stack/BalancedExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03-Stack/src/com/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03-Stack/src/com/stack/StringReverser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Queue/src/com/queue/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Queue/src/com/queue/QueueWithTwoStacks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-LinkedList/out/production/02-LinkedList/com/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02-LinkedList/out/production/02-LinkedList/com/linkedlist/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-LinkedList/out/production/02-LinkedList/com/linkedlist/LinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02-LinkedList/out/production/02-LinkedList/com/linkedlist/LinkedListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-LinkedList/src/com/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-LinkedList/src/com/linkedlist/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-LinkedList/src/com/linkedlist/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-LinkedList/src/com/linkedlist/LinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01-Arrays/com/arrays/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01-Arrays/com/arrays/Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arrays/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-Queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Queue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-Queue/out/production/04-Queue/com/queue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Queue/out/production/04-Queue/com/queue/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-Queue/src/com/queue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Queue/src/com/queue/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="01-Arrays" />
@@ -34,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/arrays/ArrayClassDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="76">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -43,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/arrays/Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="317">
+              <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -79,8 +74,9 @@
         <option value="$PROJECT_DIR$/src/com/arrays/demo.java" />
         <option value="$PROJECT_DIR$/src/exersise/Intersect.java" />
         <option value="$PROJECT_DIR$/src/com/exersise/Intersect.java" />
-        <option value="$PROJECT_DIR$/src/com/arrays/Array.java" />
         <option value="$PROJECT_DIR$/src/com/arrays/ArrayClassDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/arrays/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/arrays/Array.java" />
       </list>
     </option>
   </component>
@@ -97,14 +93,43 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="01-Arrays" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Arrays" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Arrays" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Arrays" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -145,6 +170,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arrays.Demo" />
+      <module name="01-Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Intersect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exersise.Intersect" />
       <module name="01-Arrays" />
@@ -161,6 +199,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ArrayClassDemo" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Intersect" />
       </list>
     </recent_temporary>
@@ -177,11 +216,15 @@
       <updated>1614482442451</updated>
       <workItem from="1614482446327" duration="17840000" />
       <workItem from="1615573460965" duration="1366000" />
+      <workItem from="1615899734930" duration="196000" />
+      <workItem from="1616607461150" duration="2600000" />
+      <workItem from="1616834168205" duration="15000" />
+      <workItem from="1617027093606" duration="3885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19206000" />
+    <option name="totallyTimeSpent" value="25902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -191,7 +234,7 @@
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" sideWeight="0.4978903" visible="true" weight="0.2533512" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.4978903" visible="true" weight="0.26675603" />
       <window_info id="Favorites" order="5" sideWeight="0.5021097" side_tool="true" weight="0.25" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -230,13 +273,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/arrays/ArrayClassDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arrays/Demo.java" />
     <entry file="file://$PROJECT_DIR$/src/com/arrays/ArrayListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -247,10 +284,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arrays/ArrayClassDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/arrays/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="317">
+          <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
         </state>
       </provider>
     </entry>

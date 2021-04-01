@@ -81,7 +81,8 @@ public class Array {
         }else{
             int temp=items[index];
             for (int i = count-1; i >= index; i--) {
-                items[i]=items[i-1];
+               // items[i]=items[i-1];
+                items[i+1]=items[i];
             }
             items[index]=item;
         }

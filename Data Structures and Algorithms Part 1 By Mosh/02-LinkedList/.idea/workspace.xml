@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2decc7d3-3ae0-4036-9bae-e35b170bbfa3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02-LinkedList/com/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/02-LinkedList/com/linkedlist/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02-LinkedList/com/linkedlist/LinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/02-LinkedList/com/linkedlist/LinkedListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/linkedlist/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/linkedlist/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/linkedlist/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Queue/src/com/queue/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Queue/src/com/queue/QueueReverser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Queue/src/com/queue/QueueWithTwoStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-HashTables/src/com/hashtables/CharFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-HashTables/src/com/hashtables/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-HashTables/src/com/hashtables/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-Arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Arrays/out/production/01-Arrays/com/arrays/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01-Arrays/out/production/01-Arrays/com/arrays/Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-Arrays/src/com/arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-Arrays/src/com/arrays/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-Queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Queue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-Queue/out/production/04-Queue/com/queue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Queue/out/production/04-Queue/com/queue/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-Queue/src/com/queue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Queue/src/com/queue/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/linkedlist/LinkedListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="-25">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -76,7 +82,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,6 +104,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -106,6 +112,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -170,17 +177,18 @@
       <workItem from="1615402562012" duration="706000" />
       <workItem from="1615517318506" duration="2155000" />
       <workItem from="1615521995076" duration="12000" />
+      <workItem from="1617196953003" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27701000" />
+    <option name="totallyTimeSpent" value="27716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27949062" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28351206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -226,8 +234,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/linkedlist/LinkedListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="-25">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>

@@ -49,6 +49,51 @@ public class Main {
 //        System.out.println(q.isEmpty());
 //        System.out.println(q);
 
+        // Queue with two stacks
+        System.out.println("----------- QueueWithTwoStacks -------------");
+        QueueWithTwoStacks q2=new QueueWithTwoStacks();
+        q2.enqueue(10);
+        q2.enqueue(20);
+        q2.enqueue(30);
+        q2.dequeue();
+        q2.dequeue();
+        var item=q2.dequeue();
+        System.out.println(item);
+
+        // Priority Queue
+        System.out.println("----------- Priority Queue -------------");
+//        java.util.PriorityQueue<Integer> pq=new  java.util.PriorityQueue<Integer>();
+//        pq.add(5);
+//        pq.add(2);
+//        pq.add(3);
+//        System.out.println("PrirityQueue :: "+pq);
+//        while (!pq.isEmpty())
+//            System.out.println(pq.remove());
+
+        PriorityQueue pq1=new PriorityQueue(5);
+        pq1.add(7);
+        pq1.add(3);
+        pq1.add(5);
+        pq1.add(1);
+        pq1.add(4);
+        System.out.println(pq1.toString());
+
+        while (!pq1.isEmpty())
+            System.out.println(pq1.remove());
+
+
+        // QueueReverser - Exercise
+        System.out.println("----------- Queue Reverser With K -------------");
+        Queue<Integer> qr=new ArrayDeque<>();
+        qr.add(10);
+        qr.add(20);
+        qr.add(30);
+        qr.add(40);
+        qr.add(50);
+        QueueReverser qR=new QueueReverser();
+        var res=qR.reverse(qr,3);
+        System.out.println(res);
+
     }
 
     public static void reverse(Queue<Integer> queue){
