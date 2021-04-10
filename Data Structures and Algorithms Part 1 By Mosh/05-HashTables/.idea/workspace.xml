@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34a2b856-09af-457d-a8cb-a91e27e00cbd" name="Default Changelist" comment="Changes in Hash Tables">
-      <change afterPath="$PROJECT_DIR$/../04-Queue/src/com/queue/PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Queue/src/com/queue/QueueReverser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-Queue/src/com/queue/QueueWithTwoStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hashtables/CharFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hashtables/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hashtables/HashTableExercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hashtables/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-Arrays/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Arrays/out/production/01-Arrays/com/arrays/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01-Arrays/out/production/01-Arrays/com/arrays/Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-Arrays/src/com/arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-Arrays/src/com/arrays/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Queue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Queue/out/production/04-Queue/com/queue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Queue/out/production/04-Queue/com/queue/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04-Queue/src/com/queue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-Queue/src/com/queue/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="34a2b856-09af-457d-a8cb-a91e27e00cbd" name="Default Changelist" comment="Changes in Hash Tables" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/hashtables/HashTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="108" column="20" lean-forward="true" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+            <state relative-caret-position="95">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding>
                 <element signature="e#2580#2581#0" expanded="true" />
                 <element signature="e#2623#2624#0" expanded="true" />
@@ -202,12 +186,12 @@
       <updated>1617078913960</updated>
       <workItem from="1617078916828" duration="7752000" />
       <workItem from="1617162246109" duration="22947000" />
-      <workItem from="1617246212168" duration="3004000" />
+      <workItem from="1617246212168" duration="5760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33703000" />
+    <option name="totallyTimeSpent" value="36459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -222,7 +206,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.301273" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.301273" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41018388" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -336,8 +320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hashtables/HashTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="108" column="20" lean-forward="true" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+        <state relative-caret-position="95">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding>
             <element signature="e#2580#2581#0" expanded="true" />
             <element signature="e#2623#2624#0" expanded="true" />
