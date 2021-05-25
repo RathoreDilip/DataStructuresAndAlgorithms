@@ -70,17 +70,31 @@ public class Main {
 //        while (!pq.isEmpty())
 //            System.out.println(pq.remove());
 
+        // insert: O(n) - O(log n)(heap)
+        // delete: O(1) - O(log n)(heap)
+
         PriorityQueue pq1=new PriorityQueue(5);
         pq1.add(7);
         pq1.add(3);
         pq1.add(5);
-        pq1.add(1);
+        pq1.add(10);
         pq1.add(4);
         System.out.println(pq1.toString());
 
         while (!pq1.isEmpty())
             System.out.println(pq1.remove());
 
+        System.out.println("----------- Priority Queue With Heap -------------");
+        var pqwh=new PriortiyQueueWithHeap();
+        pqwh.add(7);
+        pqwh.add(3);
+        pqwh.add(5);
+        pqwh.add(10);
+        pqwh.add(4);
+        System.out.println(pqwh.printHeap());
+
+        while (!pqwh.isEmpty())
+            System.out.println(pqwh.remove());
 
         // QueueReverser - Exercise
         System.out.println("----------- Queue Reverser With K -------------");

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99a7838b-977e-4629-8335-3fab54ac4bc1" name="Default Changelist" comment="" />
+    <list default="true" id="647648b7-1de6-4672-9eb8-1073ab3e1bf4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Data Structures and Algorithms Part 1 By Mosh/04-Queue/src/com/queue/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Data Structures and Algorithms Part 1 By Mosh/04-Queue/src/com/queue/PriortiyQueueWithHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-Heap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-Heap/src/com/heap/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-Heap/src/com/heap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-Heap/src/com/heap/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tries/Lession.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tries/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tries/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-Graphs/src/com/graph/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures and Algorithms Part 1 By Mosh/04-Queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structures and Algorithms Part 1 By Mosh/04-Queue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures and Algorithms Part 1 By Mosh/04-Queue/out/production/04-Queue/com/queue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structures and Algorithms Part 1 By Mosh/04-Queue/out/production/04-Queue/com/queue/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures and Algorithms Part 1 By Mosh/04-Queue/src/com/queue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structures and Algorithms Part 1 By Mosh/04-Queue/src/com/queue/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-AVLTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-AVLTree/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,29 +30,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/avltree/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/tries/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="342">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/avltree/AVLTree.java">
+        <entry file="file://$PROJECT_DIR$/src/com/tries/Trie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="-1735">
+              <caret line="60" column="43" lean-forward="true" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
               <folding>
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#2417#2418#0" expanded="true" />
-                <element signature="e#2473#2474#0" expanded="true" />
-                <element signature="e#2522#2523#0" expanded="true" />
-                <element signature="e#2568#2569#0" expanded="true" />
-                <element signature="e#2618#2619#0" expanded="true" />
-                <element signature="e#2665#2666#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tries/Lession.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -57,9 +74,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/avltree/lession.txt" />
-        <option value="$PROJECT_DIR$/src/com/avltree/AVLTree.java" />
-        <option value="$PROJECT_DIR$/src/com/avltree/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/tries/Lession.txt" />
+        <option value="$PROJECT_DIR$/src/com/tries/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/tries/Trie.java" />
       </list>
     </option>
   </component>
@@ -86,30 +103,29 @@
         <subPane>
           <expand>
             <path>
-              <item name="02-AVLTree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02-AVLTree" type="462c0819:PsiDirectoryNode" />
+              <item name="04-Tries" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04-Tries" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="02-AVLTree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02-AVLTree" type="462c0819:PsiDirectoryNode" />
+              <item name="04-Tries" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04-Tries" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="02-AVLTree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02-AVLTree" type="462c0819:PsiDirectoryNode" />
+              <item name="04-Tries" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04-Tries" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="avltree" type="462c0819:PsiDirectoryNode" />
+              <item name="tries" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -120,7 +136,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -139,11 +154,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.avltree.Main" />
-      <module name="02-AVLTree" />
+      <option name="MAIN_CLASS_NAME" value="com.tries.Main" />
+      <module name="04-Tries" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.avltree.*" />
+          <option name="PATTERN" value="com.tries.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,25 +177,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="99a7838b-977e-4629-8335-3fab54ac4bc1" name="Default Changelist" comment="" />
-      <created>1617819222384</created>
+      <changelist id="647648b7-1de6-4672-9eb8-1073ab3e1bf4" name="Default Changelist" comment="" />
+      <created>1618510607585</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1617819222384</updated>
-      <workItem from="1617819226389" duration="2245000" />
-      <workItem from="1617852684298" duration="15719000" />
-      <workItem from="1617934285106" duration="10852000" />
-      <workItem from="1618141861715" duration="1024000" />
+      <updated>1618510607585</updated>
+      <workItem from="1618510611460" duration="3986000" />
+      <workItem from="1618543665533" duration="1985000" />
+      <workItem from="1618631566435" duration="1187000" />
+      <workItem from="1618744751622" duration="5875000" />
+      <workItem from="1618803721924" duration="3638000" />
+      <workItem from="1618887758824" duration="17539000" />
+      <workItem from="1618971625134" duration="4042000" />
+      <workItem from="1620194579016" duration="825000" />
+      <workItem from="1620314076153" duration="770000" />
+      <workItem from="1620706832759" duration="87000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29840000" />
+    <option name="totallyTimeSpent" value="39934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17828418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -189,16 +210,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39745402" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37623763" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42291373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932975" weight="0.32956153" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -215,34 +236,26 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/avltree/lession/txt.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/avltree/lession.txt">
+    <entry file="file://$PROJECT_DIR$/src/com/tries/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="342">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/avltree/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tries/Lession.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="114">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/avltree/AVLTree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tries/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="-1735">
+          <caret line="60" column="43" lean-forward="true" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
           <folding>
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#2417#2418#0" expanded="true" />
-            <element signature="e#2473#2474#0" expanded="true" />
-            <element signature="e#2522#2523#0" expanded="true" />
-            <element signature="e#2568#2569#0" expanded="true" />
-            <element signature="e#2618#2619#0" expanded="true" />
-            <element signature="e#2665#2666#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
