@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26aa925f-7577-43ef-9443-a1cb97ef56d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../01-Sorting/src/com/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-Sorting/src/com/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-Sorting/src/com/sorting/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-Sorting/src/com/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-Searching/src/com/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-Searching/src/com/search/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-Searching/src/com/search/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/string/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/string/StringUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures and Algorithms Part 2 By Mosh/06-UndirectedGraph/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structures and Algorithms Part 2 By Mosh/06-UndirectedGraph/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="03-String" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/string/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="68" column="56" selection-start-line="68" selection-start-column="56" selection-end-line="68" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/string/StringUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="178" column="51" lean-forward="true" selection-start-line="178" selection-start-column="51" selection-end-line="178" selection-end-column="51" />
+              <folding>
+                <element signature="method#getNoOfVowels#0;class#StringUtil#0" />
+                <element signature="method#getReverseString#0;class#StringUtil#0" />
+                <element signature="method#getReverseWords#0;class#StringUtil#0" />
+                <element signature="method#isStringRotation#0;class#StringUtil#0" />
+                <element signature="method#removeDuplicates#0;class#StringUtil#0" />
+                <element signature="method#getMaxOccuringChar#0;class#StringUtil#0" />
+                <element signature="method#getCapitalizeSentence#0;class#StringUtil#0" />
+                <element signature="method#areAnagram#0;class#StringUtil#0" />
+                <element signature="method#areAnagram2#0;class#StringUtil#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/NoOfVowelsInString.java" />
+        <option value="$PROJECT_DIR$/src/com/string/PalindromString.java" />
+        <option value="$PROJECT_DIR$/src/com/string/NoOfVowelsInString.java" />
+        <option value="$PROJECT_DIR$/src/com/string/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/com/string/ReverseWords.java" />
+        <option value="$PROJECT_DIR$/src/com/string/RemoveDuplicateChar.java" />
+        <option value="$PROJECT_DIR$/src/com/string/MostRepeatedChar.java" />
+        <option value="$PROJECT_DIR$/src/com/string/StringUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/string/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1350" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="03-String" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03-String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="03-String" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03-String" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="03-String" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03-String" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/string" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA_PRACTICE\JAVA_INTELIJ\DATA STRUCTURE BY CODE WITH MOSH\Data Structures and Algorithms Part 3 By Mosh\03-String\src\com\string" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.string.Main" />
+      <module name="03-String" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26aa925f-7577-43ef-9443-a1cb97ef56d7" name="Default Changelist" comment="" />
+      <created>1624775151418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624775151418</updated>
+      <workItem from="1624775157040" duration="7201000" />
+      <workItem from="1624849411266" duration="3115000" />
+      <workItem from="1624937086852" duration="733000" />
+      <workItem from="1624987102967" duration="4243000" />
+      <workItem from="1625057353765" duration="2650000" />
+      <workItem from="1625111600735" duration="11659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29601000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.26675603" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50089127" side_tool="true" weight="0.26675603" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33097595" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/NoOfVowelsInString.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/string/PalindromString.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/lang/StringUTF16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="1270" column="23" selection-start-line="1270" selection-start-column="23" selection-end-line="1270" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="1517" column="28" lean-forward="true" selection-start-line="1517" selection-start-column="28" selection-end-line="1517" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.10/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="439" column="17" lean-forward="true" selection-start-line="439" selection-start-column="17" selection-end-line="439" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/string/NoOfVowelsInString.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/string/ReverseString.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/string/ReverseWords.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/string/RemoveDuplicateChar.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/string/MostRepeatedChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/string/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="178" column="51" lean-forward="true" selection-start-line="178" selection-start-column="51" selection-end-line="178" selection-end-column="51" />
+          <folding>
+            <element signature="method#getNoOfVowels#0;class#StringUtil#0" />
+            <element signature="method#getReverseString#0;class#StringUtil#0" />
+            <element signature="method#getReverseWords#0;class#StringUtil#0" />
+            <element signature="method#isStringRotation#0;class#StringUtil#0" />
+            <element signature="method#removeDuplicates#0;class#StringUtil#0" />
+            <element signature="method#getMaxOccuringChar#0;class#StringUtil#0" />
+            <element signature="method#getCapitalizeSentence#0;class#StringUtil#0" />
+            <element signature="method#areAnagram#0;class#StringUtil#0" />
+            <element signature="method#areAnagram2#0;class#StringUtil#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/string/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="68" column="56" selection-start-line="68" selection-start-column="56" selection-end-line="68" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
